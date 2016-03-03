@@ -1,0 +1,19 @@
+{
+  "name": "frp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sven Anders Robbestad <robbestad@gmail.com> (http://svenardo.com)",
+  "license": "ISC",
+  "dependencies": {
+    "es6-promise": "^3.1.2",
+    "isomorphic-fetch": "^2.2.1",
+    "jquery": "^2.2.1",
+    "jsdom": "^8.1.0",
+    "request": "^2.69.0",
+    "rxjs": "^5.0.0-beta.2"
+  }
+}
