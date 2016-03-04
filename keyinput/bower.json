@@ -1,0 +1,17 @@
+{
+  "name": "keyinput",
+  "main": "keyinput.js",
+  "version": "0.0.1",
+  "homepage": "https://github.com/svenanders/ReactiveProgrammingExamples",
+  "authors": [
+    "Sven A Robbestad <robbestad@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
