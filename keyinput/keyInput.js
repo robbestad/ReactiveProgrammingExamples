@@ -1,9 +1,9 @@
 const input = $(".input");
 const $results = $('#results');
 
-const search = () => {
-  fetch("http://www.reddit.com/r/puppies.json?limit=5")
-  .then((response) => console.log(response.json())) }
+//const search = () => {
+//  fetch("http://www.reddit.com/r/puppies.json?limit=5")
+//  .then((response) => console.log(response.json())) }
 
 function searchWikipedia (term) {
   return $.ajax({
