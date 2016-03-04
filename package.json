@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "bundle": "browserify $FILE > bundle.js"
   },
   "author": "Sven Anders Robbestad <robbestad@gmail.com> (http://svenardo.com)",
   "license": "ISC",

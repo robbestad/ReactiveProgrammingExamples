@@ -15,7 +15,13 @@ const range = Rx.Observable.range(1,8)
  .takeLast(1)
 
 range.subscribe(
-  (val) => { console.log(`Last even value: ${val}`) }
+  (val) => {
+    console.log(
+      `Last
+      even
+      value: ${val}`
+    )
+  }
 );
 // -> Last even value: 8
 
