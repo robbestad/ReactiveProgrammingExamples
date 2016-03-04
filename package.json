@@ -1,11 +1,11 @@
 {
-  "name": "frp",
+  "name": "frp-examples",
   "version": "1.0.0",
-  "description": "",
+  "description": "(Functional) Reactive Programming examples using RxJS",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "bundle": "browserify $FILE > bundle.js"
+    "bundle": "browserify $FILE > public/bundle.js"
   },
   "author": "Sven Anders Robbestad <robbestad@gmail.com> (http://svenardo.com)",
   "license": "ISC",
