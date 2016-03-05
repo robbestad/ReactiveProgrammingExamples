@@ -17,7 +17,7 @@ body {
   font-size: 24px;
   display: block;
 }
-
+/*
 .results {
   -webkit-transition-duration: 0.3s;
           transition-duration: 0.3s;
@@ -29,7 +29,7 @@ body {
   -webkit-transform-origin: top left;
           transform-origin: top left;
 }
-
+*/
 .input:focus {
   padding: 20px;
 }
